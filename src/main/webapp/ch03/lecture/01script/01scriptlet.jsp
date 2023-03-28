@@ -14,7 +14,7 @@
 	String b = "hi";
 	%>
 	<p>자바 코드 작성 가능</p>
-	
+	<p>Lorem ipsum.</p>
 	<%
 	String a = "hello web app";
 	out.println();
